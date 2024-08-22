@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre">Enter your pet\'s name.</string>
+    <string name="name">Name</string>
+    <string name="cuidar_de_la_mascota">Take care of the pet ♥</string>
+    <string name="animacion">animation</string>
+    <string name="cari_o">Love</string>
+    <string name="hambre">Hunger</string>
+    <string name="speakable">Button to feed the pet</string>
+    <string name="diversion">Fun</string>
+    <string name="boton_para_bailar">Button to dance</string>
+</resources>

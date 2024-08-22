@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">tamagotchi</string>
+    <string name="tamagochi" translatable="false">Tamagotchi</string>
+    <string name="nombre">Introduce el nombre de tu mascota</string>
+    <string name="name">Nombre</string>
+    <string name="cuidar_de_la_mascota">Cuidar de la mascota ♥</string>
+    <string name="animacion">animacion</string>
+    <string name="cari_o">Cariño</string>
+    <string name="hambre">Hambre</string>
+    <string name="speakable">Boton para dar de comer a la mascota</string>
+    <string name="diversion">Diversión</string>
+    <string name="boton_para_bailar">Boton para bailar</string>
+</resources>
